@@ -9,6 +9,7 @@ const Carlos = {
   tools: [React, Angular, Node, VSCode],
 ```
 - [Linkedin](https://www.linkedin.com/in/carlos-garcia-a57824176/)
+- [Twitter](https://twitter.com/Carlos15971963)
 ---
 
 ⭐️ From [@Carlos](https://github.com/gtrujilloca)
