@@ -4,9 +4,8 @@
 
 ```javascript
 const Carlos = {
-  pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Angular, Node, VSCode],
+  tools: [React, Angular, Nextjs],
 ```
 - [Linkedin](https://www.linkedin.com/in/carlos-garcia-a57824176/)
 ---
